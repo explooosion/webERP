@@ -21,7 +21,7 @@ wampserver -> PHP -> php.ini
 #修正php.ini
 ```
 step1. wampserver
-step2 .PHP
+step2. PHP
 step3. php.ini
 step4. extension=php_gettext.dll (用;註解)
 step5. restart wampserver

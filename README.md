@@ -1,5 +1,5 @@
 #webERP中文修正
-+版本：未限制
+版本：未限制
 
 #說明
 主要在Winodows「;extension=php_gettext.dll」影響，導致語系失效，

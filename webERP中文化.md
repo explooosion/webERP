@@ -27,5 +27,8 @@ step4. extension=php_gettext.dll (用;註解)
 step5. restart wampserver
 ```
 
+#圖示
+![http://i.imgur.com/98Cp5aD.jpg](asd)
+
 參考資料：
 http://job.achi.idv.tw/2009/08/11/windows-weberp-utf-8-%E4%B8%AD%E6%96%87%E5%8C%96/

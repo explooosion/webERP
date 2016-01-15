@@ -2,14 +2,14 @@
 版本：未限制
 
 #說明
-在系統上
+```
 CentOS、Ubuntu：
 測試過沒問題
 
 Winodows：
 PHP「;extension=php_gettext.dll」影響，導致語系失效，
 因此本次修正為php.ini檔，讓weberp使用該套件的語系設定，
-
+```
 
 #基本語系
 首先請先確定，MySQL、PHP皆是utf8。
